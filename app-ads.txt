@@ -1,0 +1,4 @@
+# PLACEHOLDER — NO LIVE ADMOB SELLER RECORD IS PUBLISHED YET.
+# Add the exact AdMob publisher line only after the publisher ID is confirmed.
+# Expected format (example is commented out and inactive):
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0

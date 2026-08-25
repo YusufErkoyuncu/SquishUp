@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yusuferkoyuncu.github.io/sitemap.xml
