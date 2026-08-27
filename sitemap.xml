@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://yusuferkoyuncu.github.io/</loc>
-  </url>
-  <url>
-    <loc>https://yusuferkoyuncu.github.io/privacy.html</loc>
-  </url>
-  <url>
-    <loc>https://yusuferkoyuncu.github.io/support.html</loc>
-  </url>
+  <url><loc>https://yusuferkoyuncu.github.io/SquishUp/</loc></url>
+  <url><loc>https://yusuferkoyuncu.github.io/SquishUp/privacy.html</loc></url>
+  <url><loc>https://yusuferkoyuncu.github.io/SquishUp/support.html</loc></url>
 </urlset>
