@@ -1,13 +1,14 @@
 # Squish Up
 
-Official public website and player resources for **Squish Up**, a fast-paced casual arcade game by Eksen Works.
+Public website and documentation repository for **Squish Up**, an in-development casual mobile game under Eksen Works.
 
 - Website: https://yusuferkoyuncu.github.io/SquishUp/
-- Privacy Policy: https://yusuferkoyuncu.github.io/SquishUp/privacy.html
+- Privacy policy: https://yusuferkoyuncu.github.io/SquishUp/privacy.html
 - Support: https://yusuferkoyuncu.github.io/SquishUp/support.html
-- Android application ID: `com.eksenworks.squishup`
 
-The site is a dependency-free static website hosted with GitHub Pages. Version 1.0 supports optional Google Play Games leaderboard access. Achievements and game progress remain stored locally on the player's device.
+This repository contains the dependency-free static website, privacy policy, and support pages hosted with GitHub Pages. It does not contain the mobile application's production source code.
+
+Squish Up is still in development. Features and service integrations described on these pages may change before release.
 
 ## Copyright and license
 
